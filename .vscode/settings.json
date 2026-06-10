@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd '/Users/elisha/Desktop/work/Fix and flourish' && netlify sites:list --json$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
